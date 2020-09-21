@@ -9,6 +9,7 @@
 - USB Voltage Booster
 - TP4056 Charging Module
 - ICR 18650 Battery
+## Implementation Steps:
 1. Configure Arduino by connecting Vcc and Gnd Pins to BreadBoard and USB connector to computer.
 2. Vcc and Gnd of UltraSonic Distance Sensor will be connected to Vcc and Gnd of Arduino. Echo Pin and Trigger Pin will be connected to Pins 8 and 9 of Arduino.
 3. Take LED and connect the positive leg to 220 ohm resistor and connect that to pin 13 of Arduino and negative (short) leg of LED to Gnd for both sender and receiver.
