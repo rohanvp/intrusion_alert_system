@@ -18,4 +18,5 @@
 6. Vcc and Gnd of HC12 will be connected to Vcc and Gnd of Arduino. Rx and Tx of HC12 will be connected to pins 10 and 11 respectively.
 7. Flash code to Arduino via Arduino IDE and get OUTPUT.
 8. Once Flashed, now power can be disconnected from the computer and connected to any external Power Source.
-![alt text](https://github.com/rohanvparanjpe/intrusion_alert_system/blob/master/receiver.JPG?raw=true)
+##Circuit Diagram
+![Receiver](https://github.com/rohanvparanjpe/intrusion_alert_system/blob/master/receiver.JPG?raw=true)
