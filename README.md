@@ -20,3 +20,4 @@
 8. Once Flashed, now power can be disconnected from the computer and connected to any external Power Source.
 ## Circuit Diagram
 ![Receiver](/receiver.JPG?raw=true)
+###       Receiver
