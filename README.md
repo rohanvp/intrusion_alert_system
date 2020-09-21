@@ -19,4 +19,4 @@
 7. Flash code to Arduino via Arduino IDE and get OUTPUT.
 8. Once Flashed, now power can be disconnected from the computer and connected to any external Power Source.
 ##Circuit Diagram
-![GitHub Logo](/images/sender.jpg)
+/images/sender.jpg
