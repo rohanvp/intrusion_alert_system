@@ -1,5 +1,5 @@
 # Solar Powered Wireless Intrusion Alert System
-##Steps to be followed:
+## Steps to be followed:
 1. Create and account in Thingspeak.
 2. Make connections as mentioned in the circuit diagram.
 3. Download the two .ino files
