@@ -5,7 +5,7 @@
 3. Make connections as mentioned in the circuit diagram. For configuring with ESP8266 WIFI Module [Refer this.](https://www.electronicshub.org/connect-esp8266-to-thingspeak/)
 4. Download the two .ino files
 5. Run the files
-### NOTE: HC12 RF Transciever and 
+### NOTE: HC12 RF Transciever and ESP8266 can be used together or independently.
 
 ## Components Used:
 - Arduino Mega 2560
