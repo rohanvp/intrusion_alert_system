@@ -1,4 +1,8 @@
 # Solar Powered Wireless Intrusion Alert System
+## About the System:
+- The system is a Intrusion Detection and Alert System which works wirelessly. The system will work best in area with negligible or lowest network connectivity(due to use of HC12 RF Transciver)
+- 
+
 ## Steps to be followed:
 1. Create an account in [Thingspeak](https://thingspeak.com/login) or [Sign In](https://thingspeak.com/login) if already created
 2. Create and new or Configure existing channel.[Refer this](https://in.mathworks.com/help/thingspeak/collect-data-in-a-new-channel.html#bu4b1yc) 
