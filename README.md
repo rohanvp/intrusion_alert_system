@@ -1,6 +1,6 @@
 # Solar Powered Wireless Intrusion Alert System
 ## Steps to be followed:
-1. Create an account in [Thingspeak!](https://thingspeak.com/login) or [Sign In!](https://thingspeak.com/login) if already created
+1. Create an account in [Thingspeak](https://thingspeak.com/login) or [Sign In](https://thingspeak.com/login) if already created
 2. Make connections as mentioned in the circuit diagram.
 3. Download the two .ino files
 4. Run the files
