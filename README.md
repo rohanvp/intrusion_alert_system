@@ -10,7 +10,7 @@
 ## Steps to be followed:
 1. Create an account in [Thingspeak](https://thingspeak.com/login) or [Sign In](https://thingspeak.com/login) if already created
 2. Create and new or Configure existing channel.[Refer this](https://in.mathworks.com/help/thingspeak/collect-data-in-a-new-channel.html#bu4b1yc) 
-3. Make connections as mentioned in the circuit diagram. For configuring with ESP8266 WIFI Module [Refer this.](https://www.electronicshub.org/connect-esp8266-to-thingspeak/)
+3. Make connections as mentioned in the circuit diagram. For configuring with ESP8266 WIFI Module, refer the figures.
 4. Download the two .ino files
 5. Run the files
 ### NOTE: HC12 RF Transciever and ESP8266 can be used together or independently.
