@@ -8,12 +8,13 @@ void setup()
   mySerial.begin(9600);
 }
 void loop() 
-{
-  if(mySerial.available() > 1){//Read from HC-12 and send to serial monitor
+{ 
+  //Read from HC-12 and send to serial monitor
+  if(mySerial.available() > 1){
     String input = mySerial.readString();
-    //Serial.println(input);
     int a=input.toInt();
     Serial.println(a);
+    //1234 is just any message that is received from receiver     
     if(a==1234)
     {
       digitalWrite(13,HIGH);
